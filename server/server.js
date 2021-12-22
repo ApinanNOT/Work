@@ -7,9 +7,12 @@ const musics = [
     {name: "Psycho" , artist: "Post Malone" , type: "R&B"},
     {name: "Love someone" , artist: "Lukas Graham" , type: "Pop"},
     {name: "Best Part" , artist: "Daniel Caesar" , type: "R&B"},
-    {name: "Easy on me" , arttist: "Adele" , type: "Pop"},
-    {name: "Levitating" , arttist: "Dua Lipa" , type: "Pop"},
-    {name: "FRIENDS" , arttist: "Marshmello & Anne-Marie" , type: "Pop"}
+    {name: "Easy on me" , artist: "Adele" , type: "Pop"},
+    {name: "Levitating" , artist: "Dua Lipa" , type: "Pop"},
+    {name: "FRIENDS" , artist: "Marshmello & Anne-Marie" , type: "Pop"},
+    {name: "Gone" , artist: "Rose" , type: "R&B"},
+    {name: "On The Ground" , artist: "Rose" , type: "R&B"},
+    {name: "Lalisa" , artist: "Lisa" , type: "R&B"}
 
 ];
 //schema
