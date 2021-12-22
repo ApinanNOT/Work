@@ -3,7 +3,11 @@ import { ApolloServer, gql } from 'apollo-server';
 const musics = [
     {name: "2002" , artist: "Anne-Marie" , type: "Pop"},
     {name: "Lost star" , artist: "Adam Levine" , type: "Pop"},
-    {name: "Back in back" , artist: "AC/DC" , type: "Rock"}
+    {name: "Back in back" , artist: "AC/DC" , type: "Rock"},
+    {name: "Psycho" , artist: "Post Malone" , type: "R&B"},
+    {name: "Love someone" , artist: "Lukas Graham" , type: "Pop"},
+    {name: "Best Part" , artist: "Daniel Caesar" , type: "R&B"},
+
 ];
 //schema
 const typeDefs = gql`
